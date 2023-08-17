@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc936a71-03db-41b4-b3f8-25b8737d69b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loja.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Loja/TesteDescontos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Loja/TesteImpostos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Loja/desconto/CalculadoraDeDesconto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Loja/imposto/CalculadoraDeImpostos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Loja/imposto/ICMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Loja/imposto/ISS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Loja/imposto/Imposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Loja/orcamento/Orcamento.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2U4XOFb511MCmykfNZ0TQJ4CKMK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.alura.Loja.imposto" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.alura.Loja" />
+      <recent name="br.com.alura.Loja.imposto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TesteDescontos">
+    <configuration name="TesteDescontos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.Loja.TesteDescontos" />
+      <module name="Loja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.Loja.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteImpostos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.Loja.TesteImpostos" />
+      <module name="Loja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.Loja.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteDescontos" />
+        <item itemvalue="Application.TesteImpostos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc936a71-03db-41b4-b3f8-25b8737d69b2" name="Changes" comment="" />
+      <created>1692199795738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692199795738</updated>
+    </task>
+    <servers />
+  </component>
+</project>
